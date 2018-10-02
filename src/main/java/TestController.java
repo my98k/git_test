@@ -3,5 +3,6 @@ public class TestController {
         System.out.println("重新开始");
         System.out.println("左侧的idea");
         System.out.println("右侧的idea");
+        System.out.println("hahaha");
     }
 }
